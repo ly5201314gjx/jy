@@ -1,0 +1,5 @@
+{
+  "name": "QuantFlow - 智能量化终端",
+  "description": "专业的极简主义量化交易仪表盘，专注于黄金 (PAXG)、ETH 和 WLD 交易对。具有实时行情可视化、仓位管理和基于 Google Gemini 的 AI 市场分析功能。",
+  "requestFramePermissions": []
+}
